@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - green
+  - red
+  - blue
+  - white
+  - pink
+  - yellow
+  - floor
+  - score
+  - rnb
+  - ong
+  - wnp
+  - rnp
+  - onb
+  - wng
+  - New tag
+  - pinkmiss
+  - whitemiss
+  - bluemiss
+  - attack2blox
+  - danger
+  - missiles
+  - uimenu
+  - spawnerthing
+  - timelines
+  - paststamp
+  - progress
+  - thud
+  - bg_sound
+  - bg_soundlev3
+  - Ads
+  - restartButton
+  - adthing
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - post_processing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: player
+    uniqueID: 2302782181
+    locked: 0
