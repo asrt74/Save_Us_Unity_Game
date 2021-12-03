@@ -3,7 +3,7 @@
 ## Ranveerkar Shreyas Suresh (19NA10021)
 ### Project Screenshots
 
-<img src="poster.png">
-<img src="2.png">
-<img src="4.png">
-<img src="6.png">
+<img src="Poster.png">
+<img src="2.jpg">
+<img src="4.jpg">
+<img src="6.jpg">
